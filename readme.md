@@ -10,7 +10,6 @@ Anggota :
 6. nandaazein
 
 # Cara menjalankan di lokal host
-<hr>
 
 - Download atau git clone repo ini
 - Pindahkan kedalam **htdocs**
