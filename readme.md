@@ -1,4 +1,4 @@
-# Judul : Pegadaiaan.
+# Judul : Pegadaiaan
 # Kelompok : 1 (satu)
 
 Anggota : 
