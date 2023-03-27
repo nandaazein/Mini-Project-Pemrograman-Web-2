@@ -13,5 +13,5 @@ Anggota :
 
 - Download atau git clone repo ini
 - Pindahkan kedalam **htdocs**
-
+- Import database ke dalam phpMyAdmin dengan nama pegadaian
 
