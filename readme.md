@@ -14,3 +14,4 @@ Anggota :
 - Download atau git clone repo ini
 - Pindahkan kedalam **htdocs**
 - Import database ke dalam phpMyAdmin dengan nama **pegadaian**
+- Copy semua file lalu pindahkan ke dalam **\xampp\htdocs\pegadaian**
